@@ -41,6 +41,7 @@ build/ → Compiled output for npm
 Clone the repo and install dependencies:
 
 git clone https://github.com/your-username/ztrack-logger.git
+
 cd ztrack-logger
 npm install
 
@@ -53,6 +54,7 @@ npm run build
 
 Found a bug or have a feature request?
 Open an issue here (https://github.com/Zohair-Abbasi/ztrack-logger/issues)
+
 
 📜 License
 
