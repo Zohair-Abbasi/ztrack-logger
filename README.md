@@ -13,6 +13,7 @@ yarn add ztrack-logger
 
 📖 Usage
 import { logger } from "ztrack-logger";
+import logger from "ztrack-logger"
 
 // Log different levels
 logger.info("This is an info message");
