@@ -52,7 +52,7 @@ npm run build
 🐞 Issues
 
 Found a bug or have a feature request?
-Open an issue here 👉 GitHub Issues
+Open an issue here (https://github.com/Zohair-Abbasi/ztrack-logger/issues)
 
 📜 License
 
